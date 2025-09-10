@@ -1,0 +1,4 @@
+textual>=0.35.0
+streamlit>=1.0.0
+peewee>=3.0.1
+pandas>=2.1.0
